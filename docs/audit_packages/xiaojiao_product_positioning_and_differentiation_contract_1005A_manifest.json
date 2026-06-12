@@ -1,0 +1,75 @@
+{
+    "package_name":  "xiaojiao_product_positioning_and_differentiation_contract_1005A",
+    "package_code":  "1005_XIAOJIAO_PRODUCT_POSITIONING_PACKAGE",
+    "stage_code":  "1005A_XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT",
+    "final_status":  "XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT_PASS",
+    "generated_at":  "2026-06-13T00:00:00+08:00",
+    "zip_path":  "docs/audit_packages/xiaojiao_product_positioning_and_differentiation_contract_1005A.zip",
+    "zip_sha256":  "EXTERNAL_RECOMPUTATION_REQUIRED",
+    "zip_entry_count":  7,
+    "manifest_minus_zip":  [
+
+                           ],
+    "zip_minus_manifest":  [
+
+                           ],
+    "zip_entries":  [
+                        "docs/foundation/xiaojiao_product_positioning_and_differentiation_contract_1005A.md",
+                        "docs/foundation/xiaojiao_product_positioning_and_differentiation_contract_1005A.json",
+                        "samples/xiaojiao_product_positioning_and_differentiation_contract_1005A/product_positioning_guardrail_sample_1005A.json",
+                        "docs/audit/xiaojiao_product_positioning_and_differentiation_contract_1005A_result.json",
+                        "docs/audit/xiaojiao_product_positioning_and_differentiation_contract_1005A_report.md",
+                        "docs/audit_packages/xiaojiao_product_positioning_and_differentiation_contract_1005A_manifest.json",
+                        "scripts/validate_xiaojiao_product_positioning_and_differentiation_contract_1005A.py"
+                    ],
+    "entries":  [
+                    {
+                        "path":  "docs/foundation/xiaojiao_product_positioning_and_differentiation_contract_1005A.md",
+                        "size":  1958,
+                        "sha256":  "4B8383DD029566998E4D22E0E2CE21035682733F8CC4F60E4A9F61E80AAABAAD"
+                    },
+                    {
+                        "path":  "docs/foundation/xiaojiao_product_positioning_and_differentiation_contract_1005A.json",
+                        "size":  5856,
+                        "sha256":  "CB8717652852EAC372F56061EB726E62488694FBA0F35FD2046105E01DC45D9E"
+                    },
+                    {
+                        "path":  "samples/xiaojiao_product_positioning_and_differentiation_contract_1005A/product_positioning_guardrail_sample_1005A.json",
+                        "size":  4361,
+                        "sha256":  "15043132D4301BB8F87983E2C1597610A094B082B085B6842A7C1EBD7935ED26"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_product_positioning_and_differentiation_contract_1005A_result.json",
+                        "size":  1321,
+                        "sha256":  "656796479162F24B3444C42E158113E639B6470907409479001DC13574CAE7FA"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_product_positioning_and_differentiation_contract_1005A_report.md",
+                        "size":  497,
+                        "sha256":  "1F4A378E56FDA0132F75F4933A529A61EBAC4D4F63E89AE2AA985693992707CF"
+                    },
+                    {
+                        "path":  "docs/audit_packages/xiaojiao_product_positioning_and_differentiation_contract_1005A_manifest.json",
+                        "size":  null,
+                        "sha256":  "SELF_REFERENTIAL"
+                    },
+                    {
+                        "path":  "scripts/validate_xiaojiao_product_positioning_and_differentiation_contract_1005A.py",
+                        "size":  3599,
+                        "sha256":  "49696A663CA8702AB93B9392F25FB44D4A829564D6FD6341CA6DDF6CCBCEB469"
+                    }
+                ],
+    "boundary":  {
+                     "dependency_installed":  false,
+                     "real_frontend_modified":  false,
+                     "runtime_connected":  false,
+                     "provider_model_called":  false,
+                     "database_written":  false,
+                     "memory_written":  false,
+                     "Feishu_written":  false,
+                     "formal_export_created":  false,
+                     "product_route_finalized":  false,
+                     "real_classroom_runtime_entered":  false,
+                     "student_runtime_connected":  false
+                 }
+}
