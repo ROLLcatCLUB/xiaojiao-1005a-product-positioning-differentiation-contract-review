@@ -1,0 +1,84 @@
+{
+    "package_code":  "1005_XIAOJIAO_PRODUCT_POSITIONING_PACKAGE",
+    "stage_code":  "1005A_XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT",
+    "stage_type":  "product_positioning_and_differentiation_contract_only",
+    "final_status_target":  "XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT_PASS",
+    "accepted_reference":  {
+                               "code":  "XIAOJIAO_EDUTECH_PRODUCT_FORM_COMPETITIVE_MAP_20260613",
+                               "decision":  "ACCEPT_AS_POSITIONING_REFERENCE"
+                           },
+    "first_identity":  "teacher_work_state_driven_intelligent_organization_system",
+    "not_first_identity":  [
+                               "AI lesson generator",
+                               "PPT/courseware generator",
+                               "smart classroom platform",
+                               "resource library / knowledge base",
+                               "student evaluation board",
+                               "school digitization backend"
+                           ],
+    "core_positioning":  "Xiaojiao is not a better generator. Xiaojiao is a system that organizes teacher work from persistent work state.",
+    "differentiation_principles":  [
+                                       "state_before_function",
+                                       "object_before_page",
+                                       "continuity_before_single_generation",
+                                       "layered_focus_surface_and_complex_studio",
+                                       "resources_and_knowledge_as_support_layer",
+                                       "analysis_must_flow_back_to_action",
+                                       "teacher_retains_authority"
+                                   ],
+    "route_constraints":  {
+                              "1001":  "state_driven_intelligence_foundation_remains_core",
+                              "1000F_I":  "model_candidate_safety_chain_remains_gate",
+                              "1002":  "progressive_work_surface_valid_but_must_obey_positioning",
+                              "1003":  "classroom_teaching_studio_allowed_only_as_orchestrated_business_scene_not_main_identity",
+                              "1004":  "student_evaluation_allowed_only_if_analysis_flows_back_to_teacher_action",
+                              "resource_library":  "support_layer_drawer_picker_not_default_main_interface"
+                          },
+    "competitor_collision_guards":  [
+                                        {
+                                            "direction":  "AI lesson planning",
+                                            "avoid":  "becoming MagicSchool/QuickClass style tool menu",
+                                            "guard":  "work object + work state + teacher review"
+                                        },
+                                        {
+                                            "direction":  "PPT/courseware generation",
+                                            "avoid":  "becoming Canva/slide generator",
+                                            "guard":  "teaching scene bundle as orchestrated scene, not slide deck identity"
+                                        },
+                                        {
+                                            "direction":  "interactive classroom platform",
+                                            "avoid":  "becoming Nearpod/Curipod/YuKetang class-running platform",
+                                            "guard":  "teacher work organization before and after class remains first identity"
+                                        },
+                                        {
+                                            "direction":  "resource library",
+                                            "avoid":  "becoming resource management platform",
+                                            "guard":  "resource layer remains support/drawer/picker"
+                                        },
+                                        {
+                                            "direction":  "evaluation board",
+                                            "avoid":  "becoming scoring dashboard",
+                                            "guard":  "candidate analysis must route to next teaching action and teacher review"
+                                        },
+                                        {
+                                            "direction":  "school backend",
+                                            "avoid":  "becoming administrative OS",
+                                            "guard":  "teacher work state and classroom preparation remain primary scope"
+                                        }
+                                    ],
+    "required_question_for_future_features":  "Is this Xiaojiao orchestrating a business scene, or is Xiaojiao becoming that business scene itself?",
+    "hard_boundaries":  {
+                            "dependency_installed":  false,
+                            "real_frontend_modified":  false,
+                            "runtime_connected":  false,
+                            "provider_model_called":  false,
+                            "database_written":  false,
+                            "memory_written":  false,
+                            "Feishu_written":  false,
+                            "formal_export_created":  false,
+                            "product_route_finalized":  false,
+                            "real_classroom_runtime_entered":  false,
+                            "student_runtime_connected":  false
+                        },
+    "next_stage":  "1005A_REVIEW_PENDING_BEFORE_1002I_1003A_OR_1004A_DECISION"
+}
