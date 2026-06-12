@@ -1,0 +1,66 @@
+{
+    "fixture_id":  "product_positioning_guardrail_sample_1005A",
+    "stage_code":  "1005A_XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT",
+    "feature_route_checks":  [
+                                 {
+                                     "proposed_line":  "1002I_GRID_ENGINE_SANDBOX",
+                                     "allowed":  "conditional",
+                                     "guardrail":  "sandbox validates substrate only, not business product identity",
+                                     "must_reference":  "1005A"
+                                 },
+                                 {
+                                     "proposed_line":  "1003A_CLASSROOM_TEACHING_STUDIO_DEEP_DESIGN",
+                                     "allowed":  "conditional",
+                                     "guardrail":  "studio is orchestrated business scene, not Xiaojiao first identity",
+                                     "must_reference":  "1005A"
+                                 },
+                                 {
+                                     "proposed_line":  "1004A_STUDENT_EVALUATION_ANALYSIS_BOARD_DEEP_DESIGN",
+                                     "allowed":  "conditional",
+                                     "guardrail":  "analysis must route to next teacher action and review, not formal scoring dashboard",
+                                     "must_reference":  "1005A"
+                                 },
+                                 {
+                                     "proposed_line":  "RESOURCE_LIBRARY_MAIN_INTERFACE",
+                                     "allowed":  "no_default",
+                                     "guardrail":  "resource library must stay support_layer/drawer/picker unless resource curation task is explicit",
+                                     "must_reference":  "1005A"
+                                 },
+                                 {
+                                     "proposed_line":  "REAL_PROVIDER_OR_STUDENT_RUNTIME",
+                                     "allowed":  "blocked_without_user_decision",
+                                     "guardrail":  "requires explicit later decision",
+                                     "must_reference":  "1005A"
+                                 }
+                             ],
+    "route_constraints":  {
+                              "1001":  "state_driven_intelligence_foundation_remains_core",
+                              "1000F_I":  "model_candidate_safety_chain_remains_gate",
+                              "1002":  "progressive_work_surface_valid_but_must_obey_positioning",
+                              "1003":  "classroom_teaching_studio_allowed_only_as_orchestrated_business_scene_not_main_identity",
+                              "1004":  "student_evaluation_allowed_only_if_analysis_flows_back_to_teacher_action",
+                              "resource_library":  "support_layer_drawer_picker_not_default_main_interface"
+                          },
+    "differentiation_principles":  [
+                                       "state_before_function",
+                                       "object_before_page",
+                                       "continuity_before_single_generation",
+                                       "layered_focus_surface_and_complex_studio",
+                                       "resources_and_knowledge_as_support_layer",
+                                       "analysis_must_flow_back_to_action",
+                                       "teacher_retains_authority"
+                                   ],
+    "boundary_flags":  {
+                           "dependency_installed":  false,
+                           "real_frontend_modified":  false,
+                           "runtime_connected":  false,
+                           "provider_model_called":  false,
+                           "database_written":  false,
+                           "memory_written":  false,
+                           "Feishu_written":  false,
+                           "formal_export_created":  false,
+                           "product_route_finalized":  false,
+                           "real_classroom_runtime_entered":  false,
+                           "student_runtime_connected":  false
+                       }
+}
