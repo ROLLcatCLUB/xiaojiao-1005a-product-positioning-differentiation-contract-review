@@ -1,0 +1,25 @@
+{
+    "stage_code":  "1005A_XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT",
+    "final_status":  "XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT_PASS",
+    "pass":  true,
+    "marker":  "ALL_1005A_XIAOJIAO_PRODUCT_POSITIONING_AND_DIFFERENTIATION_CONTRACT_CHECKS_OK",
+    "contract_only":  true,
+    "accepted_reference":  "XIAOJIAO_EDUTECH_PRODUCT_FORM_COMPETITIVE_MAP_20260613",
+    "decision":  "ACCEPT_AS_POSITIONING_REFERENCE",
+    "principle_count":  7,
+    "collision_guard_count":  6,
+    "boundary_flags":  {
+                           "dependency_installed":  false,
+                           "real_frontend_modified":  false,
+                           "runtime_connected":  false,
+                           "provider_model_called":  false,
+                           "database_written":  false,
+                           "memory_written":  false,
+                           "Feishu_written":  false,
+                           "formal_export_created":  false,
+                           "product_route_finalized":  false,
+                           "real_classroom_runtime_entered":  false,
+                           "student_runtime_connected":  false
+                       },
+    "next_stage":  "1005A_REVIEW_PENDING_BEFORE_1002I_1003A_OR_1004A_DECISION"
+}
